@@ -42,6 +42,24 @@ export const projects: Project[] = [
           imageId: '/health.jpg',
           tags: ['Power BI', 'Fitness Analytics', 'Health Metrics', 'Data Visualization', 'Business Intelligence'],
           link: 'https://www.linkedin.com/posts/rohitmirge_uidesign-uxdesign-dashboarddesign-activity-7412543340388458497-Q3Ko',
+        },
+         {
+          id: 8,
+          title: 'Global Disaster Response Analytics Dashboard',
+          description: 'An interactive disaster analytics dashboard built with Power BI to analyze global disaster trends and response performance.',
+          longDescription: 'Designed and developed a comprehensive Global Disaster Response Analytics Dashboard using Power BI to monitor disaster trends, economic impact, and response efficiency from 2018 to 2024. The dashboard includes KPIs such as total disasters, casualties, economic loss, and recovery duration. It features regional analysis, aid distribution insights, response time evaluation, and forecasting models. Interactive filters enable deep analysis by country, disaster type, and time period, supporting data-driven decision-making for disaster management and policy planning.',
+          imageId: '/disaster.jpg',
+          tags: ['Power BI', 'Data Analytics', 'Disaster Management', 'Data Visualization', 'Business Intelligence'],
+          link: 'https://github.com/rohit2k5/global-disaster-response-analysis-dashboard1',
+          },
+        {
+          id: 9,
+          title: 'Spotify Data Analysis & Query Optimization (SQL)',
+          description: 'An advanced SQL project analyzing Spotify data to extract insights and optimize query performance.',
+          longDescription: 'Designed and analyzed a Spotify dataset using PostgreSQL, applying advanced SQL techniques such as CTEs, window functions, subqueries, and aggregations. Performed data exploration to evaluate track performance, streaming patterns, and engagement metrics across platforms like Spotify and YouTube. Implemented complex queries including ranking, cumulative analysis, and conditional aggregations. Improved query performance using indexing and EXPLAIN analysis, significantly reducing execution time. This project demonstrates strong skills in SQL optimization, data analysis, and database performance tuning.',
+          imageId: '/spotify.jpg',
+          tags: ['SQL', 'PostgreSQL', 'Data Analysis', 'Query Optimization', 'Database Management'],
+          link: 'https://github.com/rohit2k5/spotify-analysis-mysql',
         }];
 
 export const blogPosts: BlogPost[] = [
