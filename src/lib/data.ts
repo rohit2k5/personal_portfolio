@@ -32,7 +32,7 @@ export const projects: Project[] = [
           longDescription: 'This project involved a comprehensive analysis of the world defense export market. I utilized various data sources to identify key trends, market leaders, and growth opportunities. The findings were presented through a series of interactive dashboards and reports, providing a clear overview of the global landscape.',
           imageId: '/world-defence-export.jpg',
           tags: ['Data Analysis', 'Data Visualization', 'Market Analysis'],
-          link: 'https://www.linkedin.com/posts/rohitmirge_uidesign-uxdesign-dashboarddesign-activity-7412543340388458497-Q3Ko',
+          link: 'https://github.com/rohit2k5/world-defense-export-dashbord1',
         },
         {
           id: 7,
