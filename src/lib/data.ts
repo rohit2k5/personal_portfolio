@@ -57,7 +57,7 @@ export const projects: Project[] = [
           title: 'Spotify Data Analysis & Query Optimization (SQL)',
           description: 'An advanced SQL project analyzing Spotify data to extract insights and optimize query performance.',
           longDescription: 'Designed and analyzed a Spotify dataset using PostgreSQL, applying advanced SQL techniques such as CTEs, window functions, subqueries, and aggregations. Performed data exploration to evaluate track performance, streaming patterns, and engagement metrics across platforms like Spotify and YouTube. Implemented complex queries including ranking, cumulative analysis, and conditional aggregations. Improved query performance using indexing and EXPLAIN analysis, significantly reducing execution time. This project demonstrates strong skills in SQL optimization, data analysis, and database performance tuning.',
-          imageId: '/spotify_logo.jpg',
+          imageId: 'https://github.com/rohit2k5/personal_portfolio/blob/master/public/spotify_logo.jpg',
           tags: ['SQL', 'PostgreSQL', 'Data Analysis', 'Query Optimization', 'Database Management'],
           link: 'https://github.com/rohit2k5/spotify-analysis-mysql',
         }];
